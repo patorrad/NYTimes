@@ -1,7 +1,7 @@
 // Search results
 
 
-var APIKey = "582a2b11-29e9-4c48-924e-96eb94f988e2";
+var APIKey = "bkJRZXjNGZvmIAqMGxbDHWdxVOfpfYMs";
 
 var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=election&api-key=" + APIKey;
 
